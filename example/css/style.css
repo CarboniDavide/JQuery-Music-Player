@@ -1,0 +1,10 @@
+#player {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -75px 0 0 -75px;
+    list-style: none;
+    font-size: 200%;
+}
