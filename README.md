@@ -23,3 +23,7 @@ and than init player with your music
     </script>
 
 That's all.
+
+# Live
+
+http:\\www.player.carboni.ch
