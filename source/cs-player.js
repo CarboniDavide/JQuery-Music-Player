@@ -125,6 +125,10 @@ var player = {
 			transform: rotate(-90deg) translateY(-105px) rotate(90deg);\
 		}\
 		\
+		#player #boxer-items #pause{\
+			box-shadow: 0 0 0 0;\
+		}\
+		\
 		@media only screen and (max-width: 780px) {\
 			\
 			#player {\
